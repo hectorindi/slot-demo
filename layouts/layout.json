@@ -1,0 +1,26 @@
+{
+    "gamebg": {
+        "position": {
+            "X": 0,
+            "Y": 0
+        }
+    },
+    "reel": {
+        "position": {
+            "X": 0,
+            "Y": 0
+        }
+    },
+    "symbol": {
+        "position": {
+            "X": 0,
+            "Y": 0
+        }
+    },
+    "playBtn": {
+        "position": {
+            "X": 400,
+            "Y": 800
+        }
+    }
+}
